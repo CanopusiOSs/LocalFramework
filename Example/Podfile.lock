@@ -1,0 +1,16 @@
+PODS:
+  - LocalFramework (1.0.0)
+
+DEPENDENCIES:
+  - LocalFramework (from `../LocalFramework`)
+
+EXTERNAL SOURCES:
+  LocalFramework:
+    :path: "../LocalFramework"
+
+SPEC CHECKSUMS:
+  LocalFramework: bef4f21c0bd8a8af82a4a5909dcbda8f75758ba8
+
+PODFILE CHECKSUM: dca2d6969db11fb9beb2dd88436424133b49c050
+
+COCOAPODS: 1.11.3
